@@ -1,10 +1,8 @@
-# Shatham Anileshwar — Resume
+# Anileshwar Shatham - Resume
 
 This repository contains my professional resume created using LaTeX.
 
 ## 📄 Resume PDF
-
-[![Resume Preview](Resume.pdf)]
 
 [👉 Click here to view the PDF](Resume.pdf)
 
@@ -16,20 +14,6 @@ This repository contains my professional resume created using LaTeX.
 - [`resume.tex`](resume.tex) — LaTeX source code used to generate the resume.
 
 ---
-
-## 🛠️ Technologies Used
-
-- LaTeX
-- PDFLaTeX compiler
-- Git for version control
-
----
-
-## 🎯 About Me
-
-- App Lead at Codeholics Club
-- Passionate about Android and Flutter development
-- Focused on UI/UX, cloud integrations, and building impactful apps
 
 Connect with me:
 

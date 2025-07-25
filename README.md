@@ -10,8 +10,8 @@ This repository contains my professional resume created using LaTeX.
 
 ## 📂 Repository Contents
 
-- [`resume.pdf`](resume.pdf) — Compiled PDF version of my resume.
-- [`resume.tex`](resume.tex) — LaTeX source code used to generate the resume.
+- [`resume.pdf`](Resume.pdf) — Compiled PDF version of my resume.
+- [`resume.tex`](Resume.tex) — LaTeX source code used to generate the resume.
 
 ---
 
